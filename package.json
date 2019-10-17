@@ -41,5 +41,9 @@
     "webpack-dev-server": "^3.7.2",
     "webpack-merge": "4.1.0",
     "webpack-node-externals": "1.6.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.6.4",
+    "@babel/core": "^7.6.4"
   }
 }
